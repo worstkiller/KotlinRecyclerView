@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinRecyclerView</string>
+    <string-array name="genderArray">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+</resources>
